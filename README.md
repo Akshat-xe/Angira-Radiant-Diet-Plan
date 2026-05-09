@@ -13,7 +13,7 @@ A beautiful, mobile-first weekly diet routine web page built with pure **HTML** 
 
 ## 🚀 How to Use
 
-Just open `tbdiet.shtar.space` in any browser — on your phone, laptop, or PC. No setup required.
+tbdiet.shtar.space
 
 ```
 index.html   ← page structure + JavaScript
