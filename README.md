@@ -1,36 +1,32 @@
+<div align="center">
+
 # 🌿 Angira's Radiant Diet Plan
 
-A beautiful, mobile-first weekly diet routine web page built with pure **HTML** and **CSS** — no frameworks, no installs, no server needed.
+**A personalized weekly wellness routine — seven days, timed meals, zero setup.**
 
-## 🚀 How to Use
+<br/>
 
-<a href="https://tbdiet.shtar.space" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Open-Live%20Site-black?style=for-the-badge" alt="Open Live Site">
+<a href="https://tb-diet-plan.shtar.space" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OPEN_LIVE_SITE-Visit_Now_%E2%86%97-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Open Live Site" />
 </a>
 
-## ✨ Features
+</div>
 
-- 📅 **7-day diet plan** with time-based meals for every day of the week
-- ⏰ **Live clock** — shows the current date and time, updated every second
-- 📌 **Auto-highlights today** — the current day's card opens automatically
-- 🌐 **English / Hindi toggle** — switch the full page between both languages instantly
-- 🎨 **Elegant theme** — layered navy & cream wave background with gold accents
-- 📱 **Mobile-first** — designed and optimized for phone screens
+---
 
-## 🚀 How to Use
+A clean, mobile-first weekly diet plan crafted personally for Angira. Seven days of structured, time-based meals — elegantly laid out with no apps, no installs, and no complexity.
 
-```
-index.html   ← page structure + JavaScript
-styles.css   ← all styling
-```
+Auto-highlights today's plan the moment you open it, supports an English ↔ Hindi language toggle, and adapts beautifully to any screen.
 
+## Built With
 
-## 🛠 Built With
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- HTML5
-- CSS3 (custom properties, animations, backdrop-filter)
-- Vanilla JavaScript
-- [Fraunces](https://fonts.google.com/specimen/Fraunces) & [Inter](https://fonts.google.com/specimen/Inter) — Google Fonts
+## Run Locally
+
+Download the project and open `index.html` in any browser — no server, no build step, no setup.
 
 ---
 
