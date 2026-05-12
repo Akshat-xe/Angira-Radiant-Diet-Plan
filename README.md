@@ -27,3 +27,5 @@ Auto-highlights today's plan the moment you open it, supports an English ↔ Hin
 ---
 
 *Stay consistent. Stay nourished.*
+
+<!-- Patch 2.0.0 -->
