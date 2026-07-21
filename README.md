@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://tb-diet-plan.shtar.space" target="_blank" rel="noopener noreferrer">
+<a href="https://angira-diet.shtar.space" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/OPEN_LIVE_SITE-Visit_Now_%E2%86%97-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Open Live Site" />
 </a>
 
@@ -27,5 +27,3 @@ Auto-highlights today's plan the moment you open it, supports an English ↔ Hin
 ---
 
 *Stay consistent. Stay nourished.*
-
-<!-- Patch 2.0.0 -->
